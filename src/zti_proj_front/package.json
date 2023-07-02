@@ -1,0 +1,26 @@
+{
+  "name": "zti_proj_front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "corepack": "0.17.2",
+    "node-gyp": "9.3.1",
+    "nopt": "7.1.0",
+    "semver": "7.3.8",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^3.3.4",
+    "vue-good-table-next": "^0.2.1",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
