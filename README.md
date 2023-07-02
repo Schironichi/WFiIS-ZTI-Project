@@ -28,4 +28,12 @@ The project was created for the subject Advanced Internet Techniques (Zaawansowa
 
 ## Showcase
 
-The project presentation in the form of screenshots is available [here](Screenshots/) and in the above documentation.
+The project presentation in the form of screenshots is available [here](Screenshots/) and partially below.
+
+![ksiazka_list](Screenshots/ksiazka_list.png)
+
+![rezerwacja_form](Screenshots/rezerwacja_form.png)
+
+![ksiazka_select](Screenshots/ksiazka_select.png)
+
+![date_calendar](Screenshots/date_calendar.png)
